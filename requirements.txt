@@ -1,0 +1,10 @@
+pyspark
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+black
+flake8
+pylint
+mypy
