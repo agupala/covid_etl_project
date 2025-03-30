@@ -1,0 +1,17 @@
+# Core Data Processing
+pyspark
+pyarrow
+pandas
+numpy
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Dashboard
+streamlit
+
+# Utilities
+python-dotenv
+tqdm

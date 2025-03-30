@@ -1,0 +1,11 @@
+-r base.txt
+
+# Jupyter Ecosystem
+jupyterlab
+ipykernel
+ipywidgets
+jupyter-contrib-nbextensions
+
+# Optional notebook enhancements
+jupyter-dash
+qgrid  # For interactive DataFrames

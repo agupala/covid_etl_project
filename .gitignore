@@ -1,0 +1,65 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spark directories
+spark-warehouse/
+derby.log
+metastore_db/
+
+# Data directories (except structure)
+data/raw/
+data/processed/
+output/
+!data/README.md
+!output/README.md
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Package files
+*.egg
+*.egg-info
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+.venv/
